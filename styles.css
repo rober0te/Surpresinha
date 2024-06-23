@@ -28,3 +28,13 @@ img {
     border-radius: 10px;
     border: 10px solid #E277FF; /* Moldura com a cor E277FF */
 }
+
+.fofo-text {
+    font-family: 'Courier New', Courier, monospace; /* Fonte alternativa para texto fofo */
+    font-size: 18px;
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.1); /* Fundo ligeiramente transparente */
+    border-radius: 10px;
+}
