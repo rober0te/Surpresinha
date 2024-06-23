@@ -26,5 +26,5 @@ img {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
-    border: 5px solid #ff69b4; /* Moldura rosa mais escura */
+    border: 10px solid #ff69b4; /* Moldura rosa mais escura, aumentada para 10px */
 }
