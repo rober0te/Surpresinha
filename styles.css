@@ -37,4 +37,8 @@ img {
     padding: 10px;
     background: rgba(0, 0, 0, 0.1); /* Fundo ligeiramente transparente */
     border-radius: 10px;
+    max-width: 80%; /* Largura máxima do parágrafo */
+    text-align: center; /* Centraliza o texto */
+    margin-left: auto; /* Alinha à direita */
+    margin-right: auto; /* Alinha à esquerda */
 }
